@@ -1,0 +1,22 @@
+{
+    "Students": [
+        {
+            "name": "Aakash Bhandari",
+            "age": 19,
+            "email": "bhandariaakash04@gmail.com",
+            "roll_no": "1000",
+            "grades": {
+                "Mathematics": 95.0
+            }
+        }
+    ],
+    "Faculty": [
+        {
+            "name": "Mr. Rakesh Awasthi",
+            "age": 46,
+            "email": "awasthirakesh86@gmail.com",
+            "ID": "100",
+            "Subject": "Mathematics"
+        }
+    ]
+}
